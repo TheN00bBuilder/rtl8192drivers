@@ -8,7 +8,7 @@ not included with your Raspbian install.
 1. Clone this git repository using `git clone https://github.com/TheN00bBuilder/rtl8192drivers`
 
 
-2. `cd` into the directory that you just cloned by typing `cd rtl8192drivers'.
+2. `cd` into the directory that you just cloned by typing `cd rtl8192drivers`.
 
 
 3. Use `mv` to move the `rtl8192cu` folder to the correct place for the drivers. 
