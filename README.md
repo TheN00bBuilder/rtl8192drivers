@@ -11,8 +11,8 @@ not included with your Raspbian install.
 2. `cd` into the directory that you just cloned by typing `cd rtl8192drivers`.
 
 
-3. Use `mv` to move the `rtl8192cu` folder to the correct place for the drivers. 
-  * The full command is `sudo mv rtl8192 /lib/modules/$(uname -r)/kernel/drivers/net/wireless/realtek`
+3. Use `mv` to move the `rtl8192cu` file to the correct place for the drivers. 
+  * The full command is `sudo mv rtl8192cu /lib/modules/$(uname -r)/kernel/drivers/net/wireless/realtek`
 
 
 4. Use `modprobe` to make the system aware that you just installed a driver by 
